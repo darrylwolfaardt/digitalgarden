@@ -2,9 +2,11 @@
 {"dg-publish":true,"permalink":"/data-ninjaneer-digital-garden/","tags":["gardenEntry"]}
 ---
 
-Honestly, this is for my own sanity, AI, Google and YouTube with such generous contributors have without doubt made me a better thinker, developer and communicator.
+Honestly, this is for my own sanity, AI, Google and YouTube with such generous contributors have without doubt made me a better thinker, developer and communicator. 
 
 This digital garden helps me keep track of what I have used and benefitted from. If it helps you in any way I am honoured.
+
+[[Digital Garden - Index\|Digital Garden - Index]]
 
 **First... What's a Digital Garden?**
 
@@ -15,5 +17,5 @@ This digital garden helps me keep track of what I have used and benefitted from.
 credit: https://timrodenbroeker.de/digital-garden/#:~:text=A%20digital%20garden%20is%20a,sometimes%20merging%20and%20refining%20them.
 
 
-I built this one using Obsidian and instructions from this link
+I built this one using Obsidian, [oleeskild](https://github.com/oleeskild/Obsidian-Digital-Garden),  and instructions from this link
 [Thanks Wanderloots! ](https://www.youtube.com/watch?v=7f8e5IiUkeo&t=1662s)
