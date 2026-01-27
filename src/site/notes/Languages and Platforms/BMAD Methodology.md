@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/languages-and-platforms/bmad-methodology/"}
+{"dg-publish":true,"dg-permalink":"https://digitalgarden.dataninjaneer.com/languages-and-platforms/bmad-methodology/","permalink":"/https://digitalgarden.dataninjaneer.com/languages-and-platforms/bmad-methodology/"}
 ---
 
 
